@@ -23,7 +23,7 @@
 
 ###
 
-<img align="left" height="100" src="throw-computer.gif"  />
+<img align="left" height="300" src="throw-computer.gif"  />
 
 ###
 
