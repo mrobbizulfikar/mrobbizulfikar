@@ -23,11 +23,11 @@
 
 ###
 
-<img align="left" height="300" src="throw-computer.gif"  />
+<h1 align="right">Tech</h1>
 
 ###
 
-<h1 align="right">Tech</h1>
+<img align="left" height="200" src="throw-computer.gif"  />
 
 ###
 
