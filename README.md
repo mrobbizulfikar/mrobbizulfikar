@@ -23,7 +23,7 @@
 
 ###
 
-<img align="left" height="300" src="https://gifdb.com/images/high/throwing-out-technology-wgk8ss82u8towgjm.gif"  />
+<img align="left" height="200" src="https://gifdb.com/images/high/throwing-out-technology-wgk8ss82u8towgjm.gif"  />
 
 ###
 
